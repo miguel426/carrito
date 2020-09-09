@@ -1,0 +1,2 @@
+# carrito
+carrito evita obstaculo
